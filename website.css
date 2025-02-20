@@ -115,7 +115,7 @@ button:hover {
     flex-wrap: wrap;
 }
 .card {
-    gap: ;
+    gap: 10px;
     width: 250px;
     background: white;
     border-radius: 10px;
